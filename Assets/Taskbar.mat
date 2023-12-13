@@ -90,12 +90,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Blur: 0.45
+    - _Blur: 1.05
     - _Blur_Resolution: 55.6
+    - _Brightness: 5
     - _EnableExternalAlpha: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Resolution: 168.38
+    - _Scheme_Blend: 0.43
     - _Value: 0.1
     - _res1: 20.79
     - _res2: 222.51
@@ -103,4 +105,5 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Scheme_Colour: {r: 0.12936352, g: 0.0879672, b: 0.1500617, a: 1}
   m_BuildTextureStacks: []
